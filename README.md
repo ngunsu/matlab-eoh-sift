@@ -1,3 +1,9 @@
+**NEW RELATED ARTICLE**
+
+LGHD: A feature descriptor for matching across non-linear intensity variations
+
+code_url:  https://github.com/ngunsu/LGHD
+
 EOH-SIFT Matlab Code
 ===============
 
@@ -22,5 +28,3 @@ PubMedID = {23112736},
 ISSN = {1424-8220},
 DOI = {10.3390/s120912661}
 }
-
-
