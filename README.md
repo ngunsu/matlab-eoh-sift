@@ -1,4 +1,5 @@
 **NEW RELATED ARTICLE**
+===============
 
 LGHD: A feature descriptor for matching across non-linear intensity variations
 
