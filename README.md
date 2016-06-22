@@ -9,7 +9,10 @@
 
   code_url: https://github.com/ngunsu/lcsis
 
-#####EOH-SIFT Matlab Code
+
+
+
+##EOH-SIFT Matlab Code
 ===============
 
 **Article abstract**:
