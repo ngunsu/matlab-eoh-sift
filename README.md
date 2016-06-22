@@ -1,11 +1,15 @@
-**NEW RELATED ARTICLE**
+**NEW RELATED ARTICLES (Better results)** 
 ===============
 
-LGHD: A feature descriptor for matching across non-linear intensity variations
+1. LGHD: A feature descriptor for matching across non-linear intensity variations
 
-code_url:  https://github.com/ngunsu/LGHD
+  code_url:  https://github.com/ngunsu/LGHD
 
-EOH-SIFT Matlab Code
+2. Learning cross-spectral similarity measures with deep convolutional neural networks
+
+  code_url: https://github.com/ngunsu/lcsis
+
+#####EOH-SIFT Matlab Code
 ===============
 
 **Article abstract**:
