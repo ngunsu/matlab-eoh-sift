@@ -23,6 +23,7 @@ This paper presents a novel feature point descriptor for the multispectral image
 http://www.mdpi.com/1424-8220/12/9/12661
 
 **Bibtex**
+```
 @Article{s120912661,
 AUTHOR = {Aguilera, Cristhian and Barrera, Fernando and Lumbreras, Felipe and Sappa, Angel D. and Toledo, Ricardo},
 TITLE = {Multispectral Image Feature Points},
@@ -36,3 +37,4 @@ PubMedID = {23112736},
 ISSN = {1424-8220},
 DOI = {10.3390/s120912661}
 }
+```
