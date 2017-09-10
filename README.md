@@ -8,6 +8,10 @@
 2. Learning cross-spectral similarity measures with deep convolutional neural networks
 
   code_url: https://github.com/ngunsu/lcsis
+  
+3. Cross-Spectral Local Descriptors via Quadruplet Network
+  
+  code_url: https://github.com/ngunsu/qnet
 
 
 
